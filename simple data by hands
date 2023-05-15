@@ -1,0 +1,76 @@
+MATRIX_1 = {
+    ("Junior_1", "junior_1"): 10000,
+    ("Junior_1", "junior_2"): 11000,
+    ("Junior_1", "junior_3"): 12000,
+    ("Junior_1", "junior_4"): 13000,
+    ("Junior_1", "junior_5"): 9000,
+
+    ("Middle_1", "middle_1"): 9000,
+    ("Middle_1", "middle_2"): 10000,
+    ("Middle_1", "middle_3"): 11000,
+    ("Middle_1", "middle_4"): 12000,
+    ("Middle_1", "middle_5"): 13000,
+
+    ("Senior_1", "senior_1"): 10000,
+    ("Senior_1", "senior_2"): 9000,
+    ("Senior_1", "senior_3"): 11000,
+    ("Senior_1", "senior_4"): 12000,
+    ("Senior_1", "senior_5"): 13000,
+
+    ("TeamLead_1", "team_lead_1"): 10000,
+    ("TeamLead_1", "team_lead_2"): 11000,
+    ("TeamLead_1", "team_lead_3"): 9000,
+    ("TeamLead_1", "team_lead_4"): 12000,
+    ("TeamLead_1", "team_lead_5"): 13000,
+
+    ("Admin_1", "admin_1"): 10000,
+    ("Admin_1", "admin_2"): 11000,
+    ("Admin_1", "admin_3"): 12000,
+    ("Admin_1", "admin_4"): 9000,
+    ("Admin_1", "admin_5"): 13000,
+}
+
+MATRIX_2 = {
+    ("Junior_2", "junior_1"): 10000,
+    ("Junior_2", "junior_2"): 11000,
+    ("Junior_2", "junior_3"): 12000,
+    ("Junior_2", "junior_4"): 13000,
+    ("Junior_2", "junior_5"): 9000,
+
+    ("Middle_2", "middle_1"): 9000,
+    ("Middle_2", "middle_2"): 10000,
+    ("Middle_2", "middle_3"): 11000,
+    ("Middle_2", "middle_4"): 12000,
+    ("Middle_2", "middle_5"): 13000,
+
+    ("Senior_2", "senior_1"): 10000,
+    ("Senior_2", "senior_2"): 9000,
+    ("Senior_2", "senior_3"): 11000,
+    ("Senior_2", "senior_4"): 12000,
+    ("Senior_2", "senior_5"): 13000,
+
+    ("TeamLead_2", "team_lead_1"): 10000,
+    ("TeamLead_2", "team_lead_2"): 11000,
+    ("TeamLead_2", "team_lead_3"): 9000,
+    ("TeamLead_2", "team_lead_4"): 12000,
+    ("TeamLead_2", "team_lead_5"): 13000,
+
+    ("Admin_2", "admin_1"): 10000,
+    ("Admin_2", "admin_2"): 11000,
+    ("Admin_2", "admin_3"): 12000,
+    ("Admin_2", "admin_4"): 9000,
+    ("Admin_2", "admin_5"): 13000,
+}
+
+WORKERS = [
+    "junior_1", "junior_2", "junior_3", "junior_4", "junior_5",
+    "middle_1", "middle_2", "middle_3", "middle_4", "middle_5",
+    "senior_1", "senior_2", "senior_3", "senior_4", "senior_5",
+    "team_lead_1", "team_lead_2", "team_lead_3", "team_lead_4", "team_lead_5",
+    "admin_1", "admin_2", "admin_3", "admin_4", "admin_5",
+]
+
+VACANCIES = [
+    "Junior_1", "Middle_1", "Senior_1", "TeamLead_1", "Admin_1",
+    "Junior_2", "Middle_2", "Senior_2", "TeamLead_2", "Admin_2",
+]
